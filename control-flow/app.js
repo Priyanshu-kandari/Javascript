@@ -133,21 +133,29 @@
 // 1. logical AND(&&)
 // true if both the operands value are true, else evalutes to false
 
-const a = 10;
-const b = true;
-const c = false;
+// const a = 10;
+// const b = true;
+// const c = false;
 
-console.log(a>2 && b) //true
-console.log(a>2 && c) //false
+// console.log(a>2 && b) //true
+// console.log(a>2 && c) //false
 
-// 2. logical OR (||)
-// true if either of the opeerands are true, false if both are false
+// // 2. logical OR (||)
+// // true if either of the opeerands are true, false if both are false
 
-console.log(b||c)
+// console.log(b||c);
 
 
-// 3. logical NOT (!)
-//true if the operands is fals eand vice versa
-console.log(!b)
-console.log(!c)
+// // 3. logical NOT (!)
+// //true if the operands is fals eand vice versa
+// console.log(!b);
+// console.log(!c);
+
+// let password = "priyanshu"
+// if(password.length == 8 || password.includes("pri")){
+//     console.log("valid password")
+// }
+// else{
+//     console.log("invalid")
+// }
 
