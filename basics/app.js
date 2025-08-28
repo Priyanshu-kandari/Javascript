@@ -215,6 +215,6 @@ let secondname = `webdev`;
 // console.log(typeof money);
 
 //3. string to decimal
-let money = "50.35";
-money = parseFloat(money)
-console.log(typeof money)
+// let money = "50.35";
+// money = parseFloat(money)
+// console.log(typeof money)
