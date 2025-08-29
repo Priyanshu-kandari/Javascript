@@ -110,3 +110,13 @@
 //     console.log(textmessage);//hii
 // }
 // console.log(mymessage); //error
+
+const person ={
+    name: "huxn",
+    age: 19,
+    greet: function(){
+        return `hello , my name is ${person.name} & i am ${person.age} year old.`;
+    }
+    };
+
+console.log(person.greet())
