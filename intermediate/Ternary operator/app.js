@@ -2,5 +2,5 @@
 // If the person don't have any money "They should bring money"
 
 let doyouhavemoney = true
-let gavemoney = doyouhavemoney===true?"Buy products":"get a job"
+let gavemoney = doyouhavemoney?"Buy products":"get a job"
 console.log(gavemoney);
